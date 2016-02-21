@@ -1,0 +1,11 @@
+<archetype>
+  <id>spring-mvc-archetype</id>
+  <sources>
+    <source>src/main/java/AppController.java</source>
+  </sources>
+  <resources>
+    <resource>src/main/resources/log4j.properties</resource>
+    <resource>src/main/webapp/WEB-INF/spring-servlet.xml</resource>
+    <resource>src/main/webapp/WEB-INF/web.xml</resource>
+  </resources>
+</archetype>
